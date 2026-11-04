@@ -4,6 +4,10 @@
 
 Project K is a focused coding workspace for developers who want more than a blank chat window. It combines a set of intentional coding modes with voice dictation and a visual memory graph so the agent can keep useful context close to the work.
 
+## Status
+
+> **Note:** This branch currently contains documentation only. The prototype files listed under [Project structure](#project-structure) (`index.html`, `styles.css`, `app.js`, `.gitignore`) have not been committed yet.
+
 ## What is included
 
 The current release is a zero-dependency browser prototype that demonstrates the product experience:
@@ -93,6 +97,8 @@ Keep changes focused and preserve the no-build-step developer experience unless 
 
 ## License
 
-Project K does not currently declare a license. Add one before distributing or accepting external contributions.
-thanks
-open source
+Project K is intended to be open source, but it does not currently declare a license. Add a `LICENSE` file (for example, MIT or Apache-2.0) before distributing or accepting external contributions.
+
+## Acknowledgements
+
+Thanks to everyone who tries Project K, shares feedback, or contributes ideas.
