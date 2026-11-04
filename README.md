@@ -95,3 +95,4 @@ Keep changes focused and preserve the no-build-step developer experience unless 
 
 Project K does not currently declare a license. Add one before distributing or accepting external contributions.
 thanks
+open source
